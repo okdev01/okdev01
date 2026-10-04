@@ -15,6 +15,7 @@ experiences.
 | Project | Focus | Explore |
 | --- | --- | --- |
 | **AnchorQueue** | Durable Python jobs with SQLite, atomic claims, expiring leases and bounded retries | [Code & architecture](https://github.com/okdev01/anchorqueue) |
+| **TraceGlass** | Streaming JSONL diagnostics, bounded-memory aggregation and standalone HTML reports | [Code & demo](https://github.com/okdev01/traceglass) |
 | **OKDEV** | Windows client based on Rose, with a Turkish installer and build-date compatibility fixes | [Code & releases](https://github.com/okdev01/OKDEV) |
 
 I care about understandable architecture, failure handling, automated tests and
