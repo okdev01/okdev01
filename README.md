@@ -10,6 +10,21 @@ experiences.
 
 ---
 
+### Desktop apps for everyday life
+
+Türkçe arayüz, çevrimdışı kullanım ve Python gerektirmeyen taşınabilir Windows paketleri.
+
+| Uygulama | Ne işe yarar? | İndir |
+| --- | --- | --- |
+| **[Düzen](https://github.com/okdev01/duzen)** | Dosyaları önizle, seçerek düzenle ve son işlemi geri al | [Windows](https://github.com/okdev01/duzen/releases/tag/v0.1.0) |
+| **[Mola](https://github.com/okdev01/mola)** | Odak sayacı, mola süreleri ve kalıcı görev listesi | [Windows](https://github.com/okdev01/mola/releases/tag/v0.1.0) |
+| **[Kare](https://github.com/okdev01/kare)** | Fotoğrafları topluca küçült, döndür ve JPEG/PNG/WebP olarak kaydet | [Windows](https://github.com/okdev01/kare/releases/tag/v0.1.0) |
+| **[Cep](https://github.com/okdev01/cep)** | Gelir-gider, aylık bütçe ve CSV dışa aktarımı | [Windows](https://github.com/okdev01/cep/releases/tag/v0.1.0) |
+
+Built with Python, Qt and SQLite/Pillow where needed. Each app includes its source,
+behavior tests, interface previews and Windows packaging workflow. Version 0.1.0
+scope and limitations are documented in each repository.
+
 ### Engineering in the open
 
 | Project | Focus | Explore |
